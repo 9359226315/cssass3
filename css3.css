@@ -1,0 +1,134 @@
+.nil{
+    background-color:blanchedalmond
+}
+
+.box1{
+    background-color: brown;color:rgb(71, 191, 53);
+    height: 100px;
+    width: 400px;
+    border-radius: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    text-align: center;
+    padding-top: 40px;
+    position: relative;
+    left: 35%;
+    box-shadow: 4px 4px 10px green
+    
+}
+
+.box2{
+   background-color: aliceblue;color:red;
+   height: 120px;
+   width: 200px;
+   border-radius: 10px;
+   border-width: 2px;
+   border-style: solid;
+   border-color: red;
+   text-align: center;
+   padding-top:40px;
+   position: relative;
+   left: 70px;
+   box-shadow: 12px 12px 10px black;
+}
+
+.box3{
+
+    background-color: aliceblue;
+    height: 140px;
+    width: 200px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    background-image: url("./nil.jpg.jpg");
+    position: relative;
+    left:80%;
+    bottom:165px;
+    padding: 10px;
+    box-shadow: 10px 10px 12px black;
+}
+
+.box4{
+    background-color: aliceblue;color:red;
+    height: 130px;
+    width: 160px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    text-align:center;
+    position: relative;
+    left:80%;
+    bottom:170px;
+    padding: 25px;
+    box-shadow: 10px 10px 12px black;
+    margin: 20px;
+    
+}
+
+.flex-container{
+    background-color: green;
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    color:red;
+    text-align: center;
+    padding:40px;
+
+    
+    
+   
+     
+}
+
+.flex-atem22{
+
+  background-color:yellow;color:black;
+  height:200px;
+  width: 700px;
+  margin: 10px;
+  
+
+  
+}
+.flex-atem1{
+
+  background-color:yellow;color:black;
+  height:200px;
+  width: 700px;
+  margin:0px;
+  float: right;
+}
+  
+  .flex-atem33{
+background-color: aqua;
+height: 500px;
+width:1200px;
+padding: 50px;
+
+}
+
+.box5{
+
+background-color: chartreuse;color:red;
+width:400px;
+height:40px;
+border-radius: 15px;
+border: 4px solid red;
+box-shadow: 12px 12px 10px black;
+text-align: center;
+position: fixed;
+top:700px;
+left: 500px;
+padding-top: 10px;
+
+
+}
+
+
+
+
+
+
